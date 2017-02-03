@@ -1,6 +1,6 @@
 # Employee-Churn-Analytics-using-Survival-Analysis--SAS-BASE
 
-Goal of this project is to identity and answer the following questions:
+Goal of this project is to understand the reasons for employess leaving the company using Survival Analysis concepts(Lifetable, PROC LIFETEST, PROC LIFEREG, survival curves, hazard functions, Maximum likelihood ratio test) and more specifically answer the following questions:
 a.	Who are leaving the company?
 b.	Why are they leaving?
 c.	When is the biggest danger for employees to leave?
